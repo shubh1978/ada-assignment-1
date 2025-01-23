@@ -13,7 +13,7 @@ You also need matplotlib to visualize the graphs. You can get it by running `pip
 Clone the repository with:
 
 ```bash
-git clone https://github.com/KartikayGautam17/ada-assignment1
+git clone https://github.com/shubh1978/ada-assignment1
 ```
 
 Navigate to the ada-assignment1 directory:
@@ -60,7 +60,7 @@ Step Count Analysis for Ascending Order:
 |         50 |            4018 |            4093 |               4156 |
 ```
 
-![](public/20250122235531.png)
+
 
 ### Descending Order:
 
@@ -75,7 +75,7 @@ Step Count Analysis for Ascending Order:
 |         50 |            4093 |            4018 |               4159 |
 ```
 
-![](public/20250122235702.png)
+
 
 ## Output for Bubble Sort
 
@@ -93,7 +93,7 @@ Step Count Analysis for Ascending Order:
 |         50 |             150 |            8771 |               6064 |
 ```
 
-![](public/20250122235604.png)
+
 
 ### Descending Order:
 
@@ -109,7 +109,7 @@ Step Count Analysis for Descending Order:
 |         50 |            8771 |             150 |               6520 |
 ```
 
-![](public/20250122235749.png)
+
 
 ## Output for Insertion Sort
 
@@ -127,7 +127,7 @@ Step Count Analysis for Ascending Order:
 |         50 |            3775 |            7450 |               5554 |
 ```
 
-![](public/20250122235348.png)
+
 
 ### Descending Order:
 
@@ -140,7 +140,7 @@ Step Count Analysis for Descending Order:
 |         50 |            7450 |            3775 |               5284 |
 ```
 
-![](public/20250122235635.png)
+
 
 ## Custom Array Testing
 
